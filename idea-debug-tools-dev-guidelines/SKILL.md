@@ -1,6 +1,6 @@
 ---
 name: idea-debug-tools-dev-guidelines
-description: Comprehensive development guidelines for the debug-tools project. This is an IntelliJ IDEA plugin for Java debugging with hot-deploy, hot-reload, method invocation, and SQL monitoring capabilities. Use when working on the debug-tools project (Maven multi-module + Gradle plugin architecture) to understand: (1) Project structure and module dependencies, (2) Coding standards and conventions, (3) Architecture patterns and design decisions, (4) Build and development workflow, (5) Testing requirements, or any development-related tasks.
+description: "Comprehensive development guidelines for the debug-tools project. This is an IntelliJ IDEA plugin for Java debugging with hot-deploy, hot-reload, method invocation, and SQL monitoring capabilities. Use when working on the debug-tools project (Maven multi-module + Gradle plugin architecture) to understand: (1) Project structure and module dependencies, (2) Coding standards and conventions, (3) Architecture patterns and design decisions, (4) Build and development workflow, (5) Testing requirements, or any development-related tasks."
 ---
 
 # Debug Tools Development Guidelines
