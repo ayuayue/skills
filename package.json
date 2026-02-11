@@ -1,0 +1,21 @@
+{
+  "name": "claude-skills",
+  "version": "1.0.0",
+  "description": "存放 Claude AI 自定义 skill 的项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "claude",
+    "ai",
+    "skill",
+    "custom"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
